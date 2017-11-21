@@ -1,0 +1,15 @@
+{
+  "build/app.js": "/build/app.js",
+  "build/fonts/glyphicons-halflings-regular.eot": "/build/fonts/glyphicons-halflings-regular.f4769f9b.eot",
+  "build/fonts/glyphicons-halflings-regular.ttf": "/build/fonts/glyphicons-halflings-regular.e18bbf61.ttf",
+  "build/fonts/glyphicons-halflings-regular.woff": "/build/fonts/glyphicons-halflings-regular.fa277232.woff",
+  "build/fonts/glyphicons-halflings-regular.woff2": "/build/fonts/glyphicons-halflings-regular.448c34a5.woff2",
+  "build/fonts/nucleo-outline.eot": "/build/fonts/nucleo-outline.53a1bed7.eot",
+  "build/fonts/nucleo-outline.ttf": "/build/fonts/nucleo-outline.22a0bffe.ttf",
+  "build/fonts/nucleo-outline.woff": "/build/fonts/nucleo-outline.24e2d6b4.woff",
+  "build/fonts/nucleo-outline.woff2": "/build/fonts/nucleo-outline.8ebec31f.woff2",
+  "build/global.css": "/build/global.css",
+  "build/images/glyphicons-halflings-regular.svg": "/build/images/glyphicons-halflings-regular.89889688.svg",
+  "build/manifest.js": "/build/manifest.js",
+  "build/vendor.js": "/build/vendor.js"
+}

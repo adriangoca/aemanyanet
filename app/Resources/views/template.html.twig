@@ -1,0 +1,9 @@
+{% extends 'base.html.twig' %}
+{% block body %}
+    <body class="template-page sidebar-collapse">
+    {% block content %}{% endblock %}
+    {% block javascripts %}
+        {{ parent() }}
+    {% endblock %}
+    </body>
+{% endblock %}
